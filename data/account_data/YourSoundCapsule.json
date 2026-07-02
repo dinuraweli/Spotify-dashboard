@@ -1,0 +1,484 @@
+{
+  "stats" : [ {
+    "date" : "2026-05-11",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Sailor Song",
+      "streamCount" : 16,
+      "secondsPlayed" : 2936
+    }, {
+      "name" : "Love Me Not",
+      "streamCount" : 15,
+      "secondsPlayed" : 3013
+    }, {
+      "name" : "Love Me Not (feat. Rex Orange County)",
+      "streamCount" : 15,
+      "secondsPlayed" : 2820
+    }, {
+      "name" : "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "streamCount" : 14,
+      "secondsPlayed" : 2830
+    }, {
+      "name" : "Self Aware",
+      "streamCount" : 14,
+      "secondsPlayed" : 2700
+    }, {
+      "name" : "White Keys",
+      "streamCount" : 13,
+      "secondsPlayed" : 1872
+    }, {
+      "name" : "So Easy (To Fall In Love)",
+      "streamCount" : 10,
+      "secondsPlayed" : 1690
+    }, {
+      "name" : "back to friends",
+      "streamCount" : 8,
+      "secondsPlayed" : 1592
+    }, {
+      "name" : "Empire State Of Mind",
+      "streamCount" : 7,
+      "secondsPlayed" : 1934
+    }, {
+      "name" : "Heat Waves",
+      "streamCount" : 7,
+      "secondsPlayed" : 1667
+    } ],
+    "topArtists" : [ {
+      "name" : "Ravyn Lenae",
+      "streamCount" : 30,
+      "secondsPlayed" : 5833
+    }, {
+      "name" : "Gigi Perez",
+      "streamCount" : 16,
+      "secondsPlayed" : 2936
+    }, {
+      "name" : "Ed Sheeran",
+      "streamCount" : 16,
+      "secondsPlayed" : 2865
+    }, {
+      "name" : "Kendrick Lamar",
+      "streamCount" : 14,
+      "secondsPlayed" : 2830
+    }, {
+      "name" : "Temper City",
+      "streamCount" : 14,
+      "secondsPlayed" : 2700
+    }, {
+      "name" : "Dominic Fike",
+      "streamCount" : 13,
+      "secondsPlayed" : 1872
+    }, {
+      "name" : "Infaas",
+      "streamCount" : 12,
+      "secondsPlayed" : 2525
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 10,
+      "secondsPlayed" : 1690
+    }, {
+      "name" : "Bathiya & Santhush",
+      "streamCount" : 9,
+      "secondsPlayed" : 1868
+    }, {
+      "name" : "Iraj",
+      "streamCount" : 9,
+      "secondsPlayed" : 1808
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-05-04",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "Love Me Not",
+      "streamCount" : 18,
+      "secondsPlayed" : 3623
+    }, {
+      "name" : "White Keys",
+      "streamCount" : 18,
+      "secondsPlayed" : 2592
+    }, {
+      "name" : "Sailor Song",
+      "streamCount" : 16,
+      "secondsPlayed" : 3342
+    }, {
+      "name" : "So Easy (To Fall In Love)",
+      "streamCount" : 15,
+      "secondsPlayed" : 2198
+    }, {
+      "name" : "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "streamCount" : 14,
+      "secondsPlayed" : 3062
+    }, {
+      "name" : "What's Up?",
+      "streamCount" : 13,
+      "secondsPlayed" : 3509
+    }, {
+      "name" : "Love Me Not (feat. Rex Orange County)",
+      "streamCount" : 13,
+      "secondsPlayed" : 2442
+    }, {
+      "name" : "Heat Waves",
+      "streamCount" : 12,
+      "secondsPlayed" : 2861
+    }, {
+      "name" : "Vaahe",
+      "streamCount" : 12,
+      "secondsPlayed" : 2426
+    }, {
+      "name" : "Ghost",
+      "streamCount" : 10,
+      "secondsPlayed" : 1424
+    } ],
+    "topArtists" : [ {
+      "name" : "Ravyn Lenae",
+      "streamCount" : 31,
+      "secondsPlayed" : 6065
+    }, {
+      "name" : "Dominic Fike",
+      "streamCount" : 18,
+      "secondsPlayed" : 2592
+    }, {
+      "name" : "Infaas",
+      "streamCount" : 19,
+      "secondsPlayed" : 4222
+    }, {
+      "name" : "Gigi Perez",
+      "streamCount" : 16,
+      "secondsPlayed" : 3342
+    }, {
+      "name" : "Olivia Dean",
+      "streamCount" : 15,
+      "secondsPlayed" : 2198
+    }, {
+      "name" : "Kendrick Lamar",
+      "streamCount" : 14,
+      "secondsPlayed" : 3062
+    }, {
+      "name" : "Iraj",
+      "streamCount" : 14,
+      "secondsPlayed" : 2888
+    }, {
+      "name" : "Ed Sheeran",
+      "streamCount" : 14,
+      "secondsPlayed" : 2441
+    }, {
+      "name" : "4 Non Blondes",
+      "streamCount" : 13,
+      "secondsPlayed" : 3509
+    }, {
+      "name" : "Glass Animals",
+      "streamCount" : 12,
+      "secondsPlayed" : 2861
+    } ],
+    "topGenres" : [ ]
+  }, {
+    "date" : "2026-04-27",
+    "streamCount" : 0,
+    "secondsPlayed" : 0,
+    "topTracks" : [ {
+      "name" : "White Keys",
+      "streamCount" : 10,
+      "secondsPlayed" : 1675
+    }, {
+      "name" : "All The Stars (with SZA) - From \"Black Panther: The Album\"",
+      "streamCount" : 8,
+      "secondsPlayed" : 1634
+    }, {
+      "name" : "Vaahe",
+      "streamCount" : 7,
+      "secondsPlayed" : 1433
+    }, {
+      "name" : "What's Up?",
+      "streamCount" : 6,
+      "secondsPlayed" : 1763
+    }, {
+      "name" : "Paradise (with Bipolar Sunshine)",
+      "streamCount" : 6,
+      "secondsPlayed" : 1138
+    }, {
+      "name" : "Kaari Na Sanda",
+      "streamCount" : 6,
+      "secondsPlayed" : 937
+    }, {
+      "name" : "Time After Time",
+      "streamCount" : 5,
+      "secondsPlayed" : 1192
+    }, {
+      "name" : "Heat Waves",
+      "streamCount" : 5,
+      "secondsPlayed" : 1168
+    }, {
+      "name" : "Madumathiye",
+      "streamCount" : 5,
+      "secondsPlayed" : 1085
+    }, {
+      "name" : "Ghost",
+      "streamCount" : 5,
+      "secondsPlayed" : 757
+    } ],
+    "topArtists" : [ {
+      "name" : "Bathiya & Santhush",
+      "streamCount" : 34,
+      "secondsPlayed" : 8836
+    }, {
+      "name" : "Iraj",
+      "streamCount" : 29,
+      "secondsPlayed" : 5726
+    }, {
+      "name" : "Ed Sheeran",
+      "streamCount" : 26,
+      "secondsPlayed" : 5361
+    }, {
+      "name" : "ILLENIUM",
+      "streamCount" : 16,
+      "secondsPlayed" : 3324
+    }, {
+      "name" : "ABBA",
+      "streamCount" : 14,
+      "secondsPlayed" : 3397
+    }, {
+      "name" : "Ranidu",
+      "streamCount" : 17,
+      "secondsPlayed" : 3404
+    }, {
+      "name" : "Justin Bieber",
+      "streamCount" : 15,
+      "secondsPlayed" : 2749
+    }, {
+      "name" : "Imagine Dragons",
+      "streamCount" : 14,
+      "secondsPlayed" : 2721
+    }, {
+      "name" : "Dominic Fike",
+      "streamCount" : 12,
+      "secondsPlayed" : 1949
+    }, {
+      "name" : "Kygo",
+      "streamCount" : 11,
+      "secondsPlayed" : 2565
+    } ],
+    "topGenres" : [ ]
+  } ],
+  "highlights" : [ {
+    "date" : "2026-05-17",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Lassana Amma",
+      "country" : "LK",
+      "position" : 759
+    }
+  }, {
+    "date" : "2026-05-10",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EpjOjfu5o3pJf",
+      "listeningPercentage" : 46.72765940371574
+    }
+  }, {
+    "date" : "2026-05-03",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Vaahe",
+      "country" : "LK",
+      "position" : 2,
+      "previousPosition" : -1,
+      "numberOfListeners" : 35565
+    }
+  }, {
+    "date" : "2026-04-26",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Wrecking Ball",
+      "secondEntity" : "Andakare Man"
+    }
+  }, {
+    "date" : "2026-04-19",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Baila Gamuda Remix Karala",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2026-04-12",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bathiya & Santhush",
+      "country" : "LK",
+      "secondsPlayed" : 9029,
+      "marketAvgSecondsPlayed" : 851.4133
+    }
+  }, {
+    "date" : "2026-04-05",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "Driving\uD83C\uDFCE",
+      "milestoneListeningSeconds" : 24489
+    }
+  }, {
+    "date" : "2026-03-29",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Careless Whisper - Remastered",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-03-22",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "I Just Might",
+      "country" : "LK",
+      "position" : 8566
+    }
+  }, {
+    "date" : "2026-03-15",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Let Me Be The One",
+      "secondEntity" : "Let Her Go - Sped Up"
+    }
+  }, {
+    "date" : "2026-03-08",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Oldies\uD83C\uDFB6",
+      "listeningPercentage" : 37.014003915073026
+    }
+  }, {
+    "date" : "2026-03-01",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Bathiya & Santhush", "Ed Sheeran", "Iraj", "What's Up?", "Ananthayata", "Heaven", "Infinity", "Yannada Igilli", "I'm Good (Blue)" ],
+      "milestoneListeningSeconds" : 91594
+    }
+  }, {
+    "date" : "2026-02-22",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Surangana Kiriliye",
+      "streamCount" : 5
+    }
+  }, {
+    "date" : "2026-02-15",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Boyce Avenue",
+      "dayStreaks" : 7
+    }
+  }, {
+    "date" : "2026-02-08",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Wrecking Ball",
+      "secondEntity" : "Ananthayata"
+    }
+  }, {
+    "date" : "2026-02-01",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Driving\uD83C\uDFCE",
+      "listeningPercentage" : 50.88572171744804
+    }
+  }, {
+    "date" : "2026-01-25",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bathiya & Santhush",
+      "country" : "LK",
+      "secondsPlayed" : 4867,
+      "marketAvgSecondsPlayed" : 853.5298
+    }
+  }, {
+    "date" : "2026-01-18",
+    "highlightType" : "MILESTONE",
+    "milestoneHighlight" : {
+      "entity" : "spotify:playlist:37i9dQZF1EpjOjfu5o3pJf",
+      "milestoneListeningSeconds" : 28377
+    }
+  }, {
+    "date" : "2026-01-11",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Internet Girl",
+      "country" : "LK",
+      "position" : 1770
+    }
+  }, {
+    "date" : "2026-01-04",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Apollo - Sped Up",
+      "dayStreaks" : 5
+    }
+  }, {
+    "date" : "2025-12-28",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Surangana Kiriliye",
+      "streamCount" : 6
+    }
+  }, {
+    "date" : "2025-12-21",
+    "highlightType" : "UNLIKE_COMBINATION",
+    "unlikeCombinationHighlight" : {
+      "firstEntity" : "Auld Lang Syne",
+      "secondEntity" : "Maduwithakin (Ahankara Nagare 2)"
+    }
+  }, {
+    "date" : "2025-12-14",
+    "highlightType" : "MILESTONE",
+    "multiEntityMilestoneHighlight" : {
+      "entities" : [ "Boney M.", "Infaas", "José Feliciano", "Feliz Navidad", "Surangana Kiriliye", "Happy Xmas (War Is Over)", "Night Changes", "Heat Waves", "Yannada Igilli" ],
+      "milestoneListeningSeconds" : 55771
+    }
+  }, {
+    "date" : "2025-12-07",
+    "highlightType" : "PROPORTION_LISTENING_ENTITY",
+    "proportionListeningHighlight" : {
+      "entity" : "Driving\uD83C\uDFCE",
+      "listeningPercentage" : 50.8463939754771
+    }
+  }, {
+    "date" : "2025-11-30",
+    "highlightType" : "STREAKS",
+    "streaksHighlight" : {
+      "entity" : "Iraj",
+      "dayStreaks" : 6
+    }
+  }, {
+    "date" : "2025-11-23",
+    "highlightType" : "FANS_LIKE_YOU",
+    "fansLikeYouHighlight" : {
+      "entity" : "Hinahenne mung (Nil Nayaniye)",
+      "country" : "LK",
+      "position" : 20,
+      "previousPosition" : -1,
+      "numberOfListeners" : 25372
+    }
+  }, {
+    "date" : "2025-11-16",
+    "highlightType" : "FIRST_TO_DISCOVER",
+    "firstToDiscoverHighlight" : {
+      "entity" : "Paradise (with Bipolar Sunshine)",
+      "country" : "LK",
+      "position" : 625
+    }
+  }, {
+    "date" : "2025-11-09",
+    "highlightType" : "YOU_STAND_OUT",
+    "youStandOutHighlight" : {
+      "entity" : "Bathiya & Santhush",
+      "country" : "LK",
+      "secondsPlayed" : 5826,
+      "marketAvgSecondsPlayed" : 866.821
+    }
+  }, {
+    "date" : "2025-11-02",
+    "highlightType" : "ON_REPEAT",
+    "onRepeatHighlight" : {
+      "entity" : "Heat Waves",
+      "streamCount" : 7
+    }
+  } ]
+}
